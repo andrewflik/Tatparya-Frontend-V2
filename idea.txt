@@ -1,0 +1,21 @@
+Twitter Analysis
+    - Fetch Profile
+        - Fetch Profile Picture
+        - Fetch Fetch Followers Count
+        - Fetch Bio
+            - Fetch any Embedded links
+        - Fetch Tweets
+            - Apply sentiment Analysis 
+                - 6 Class classification
+                - Click on twets to redirect
+            - Flag Tweets
+                - Algo. to flag tweets and show them
+            - Frequent words/terms/phrases
+                - Apply RAKE algo. on all tweets fetched
+            - Frequent Hashtags Used
+                - Simply hashing should do
+            - Frequent Users mentioned/tagged
+                - Again simple hashing should do
+            -  Spam tweets
+                - Algo. to check most spammed tweets including images
+            -   
